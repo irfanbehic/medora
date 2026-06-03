@@ -1,0 +1,118 @@
+{
+  "common": {
+    "retry": "Tekrar dene",
+    "cancel": "İptal",
+    "apply": "Uygula",
+    "clear": "Temizle",
+    "skip": "Atla",
+    "next": "İleri",
+    "getStarted": "Başla",
+    "seeAll": "Tümünü gör",
+    "save": "Kaydet",
+    "saved": "Kaydedildi",
+    "done": "Tamam"
+  },
+  "tabs": {
+    "discover": "Keşfet",
+    "saved": "Kayıtlı",
+    "settings": "Ayarlar"
+  },
+  "kinds": {
+    "doctor": "Doktor",
+    "clinic": "Klinik",
+    "hospital": "Hastane"
+  },
+  "categories": {
+    "cardiology": "Kardiyoloji",
+    "dermatology": "Dermatoloji",
+    "dentistry": "Diş Hekimliği",
+    "neurology": "Nöroloji",
+    "orthopedics": "Ortopedi",
+    "pediatrics": "Çocuk Sağlığı",
+    "ophthalmology": "Göz Hastalıkları",
+    "psychiatry": "Psikiyatri",
+    "gynecology": "Kadın Hastalıkları",
+    "oncology": "Onkoloji",
+    "general": "Genel Tıp"
+  },
+  "list": {
+    "title": "Sağlık profesyonelini bul",
+    "subtitle": "Dünya genelinde güvenilir doktor, klinik ve hastaneler",
+    "searchPlaceholder": "Doktor, klinik, şehir ara…",
+    "allCategories": "Tümü",
+    "recentSearches": "Son aramalar",
+    "results_one": "{{count}} sonuç",
+    "results_other": "{{count}} sonuç",
+    "filtersActive": "{{count}} filtre",
+    "emptyTitle": "Sonuç bulunamadı",
+    "emptyBody": "Daha fazla sonuç için aramanı veya filtreleri değiştirmeyi dene.",
+    "errorTitle": "Liste yüklenemedi",
+    "errorBody": "Ağa erişirken bir sorun oluştu. Lütfen tekrar dene.",
+    "clearFilters": "Filtreleri temizle"
+  },
+  "filter": {
+    "title": "Filtreler",
+    "country": "Ülke",
+    "city": "Şehir",
+    "category": "Branş",
+    "anyCountry": "Tüm ülkeler",
+    "anyCity": "Tüm şehirler",
+    "selectCountryFirst": "Önce bir ülke seç",
+    "clearAll": "Tümünü temizle",
+    "showResults_one": "{{count}} sonucu göster",
+    "showResults_other": "{{count}} sonucu göster",
+    "noResults": "Eşleşen sonuç yok"
+  },
+  "detail": {
+    "about": "Hakkında",
+    "contact": "İletişim",
+    "call": "Ara",
+    "website": "Web sitesi",
+    "email": "E-posta",
+    "directions": "Yol tarifi",
+    "ratingsReviews": "Puan & yorumlar",
+    "basedOn_one": "{{count}} yoruma göre",
+    "basedOn_other": "{{count}} yoruma göre",
+    "notRatedYet": "Henüz puanlanmadı",
+    "experience": "Deneyim",
+    "patients": "Hasta",
+    "reviews": "Yorum",
+    "years": "{{count}} yıl",
+    "languages": "Diller",
+    "location": "Konum",
+    "noBio": "Bu profil henüz bir açıklama eklemedi.",
+    "noContact": "İletişim bilgisi bulunmuyor.",
+    "seeAllReviews": "Tüm yorumları gör",
+    "verified": "Doğrulanmış"
+  },
+  "saved": {
+    "title": "Kayıtlı",
+    "emptyTitle": "Henüz kayıt yok",
+    "emptyBody": "Hızlı erişim için herhangi bir profildeki kalbe dokun."
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "appearance": "Görünüm",
+    "themeSystem": "Sistem",
+    "themeLight": "Açık",
+    "themeDark": "Koyu",
+    "language": "Dil",
+    "english": "English",
+    "turkish": "Türkçe",
+    "about": "Hakkında",
+    "version": "Sürüm",
+    "aboutBody": "Medora, bir mobil mühendislik case study’si için geliştirilmiş konsept bir sağlık keşif uygulamasıdır."
+  },
+  "onboarding": {
+    "slide1Title": "Dünya genelinde keşfet",
+    "slide1Body": "Dünyanın her yerinden doktor, klinik ve hastaneleri ara; tek bir yerde karşılaştır.",
+    "slide2Title": "Profesyonellerle bağlan",
+    "slide2Body": "Güvenilir doktor ve klinikleri takip et, branşları keşfet ve tek dokunuşla ulaş.",
+    "slide3Title": "Güvenebileceğin sağlık",
+    "slide3Body": "Doğrulanmış profiller ve gerçek yorumlar, sen ve ailen için doğru seçimi yapmanı sağlar.",
+    "chooseLanguage": "Dilini seç"
+  },
+  "offline": {
+    "banner": "Çevrimdışısın — son veriler gösteriliyor"
+  }
+}

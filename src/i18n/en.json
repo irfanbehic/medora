@@ -1,0 +1,118 @@
+{
+  "common": {
+    "retry": "Try again",
+    "cancel": "Cancel",
+    "apply": "Apply",
+    "clear": "Clear",
+    "skip": "Skip",
+    "next": "Next",
+    "getStarted": "Get started",
+    "seeAll": "See all",
+    "save": "Save",
+    "saved": "Saved",
+    "done": "Done"
+  },
+  "tabs": {
+    "discover": "Discover",
+    "saved": "Saved",
+    "settings": "Settings"
+  },
+  "kinds": {
+    "doctor": "Doctor",
+    "clinic": "Clinic",
+    "hospital": "Hospital"
+  },
+  "categories": {
+    "cardiology": "Cardiology",
+    "dermatology": "Dermatology",
+    "dentistry": "Dentistry",
+    "neurology": "Neurology",
+    "orthopedics": "Orthopedics",
+    "pediatrics": "Pediatrics",
+    "ophthalmology": "Ophthalmology",
+    "psychiatry": "Psychiatry",
+    "gynecology": "Gynecology",
+    "oncology": "Oncology",
+    "general": "General Medicine"
+  },
+  "list": {
+    "title": "Find your provider",
+    "subtitle": "Trusted doctors, clinics & hospitals worldwide",
+    "searchPlaceholder": "Search providers, cities…",
+    "allCategories": "All",
+    "recentSearches": "Recent searches",
+    "results_one": "{{count}} provider",
+    "results_other": "{{count}} providers",
+    "filtersActive": "{{count}} filters",
+    "emptyTitle": "No providers found",
+    "emptyBody": "Try adjusting your search or filters to see more results.",
+    "errorTitle": "Couldn’t load providers",
+    "errorBody": "Something went wrong while reaching the network. Please try again.",
+    "clearFilters": "Clear filters"
+  },
+  "filter": {
+    "title": "Filters",
+    "country": "Country",
+    "city": "City",
+    "category": "Specialty",
+    "anyCountry": "Any country",
+    "anyCity": "Any city",
+    "selectCountryFirst": "Select a country first",
+    "clearAll": "Clear all",
+    "showResults_one": "Show {{count}} result",
+    "showResults_other": "Show {{count}} results",
+    "noResults": "No matching results"
+  },
+  "detail": {
+    "about": "About",
+    "contact": "Contact",
+    "call": "Call",
+    "website": "Website",
+    "email": "Email",
+    "directions": "Directions",
+    "ratingsReviews": "Ratings & reviews",
+    "basedOn_one": "Based on {{count}} review",
+    "basedOn_other": "Based on {{count}} reviews",
+    "notRatedYet": "Not rated yet",
+    "experience": "Experience",
+    "patients": "Patients",
+    "reviews": "Reviews",
+    "years": "{{count}} yrs",
+    "languages": "Languages",
+    "location": "Location",
+    "noBio": "This provider hasn’t added a description yet.",
+    "noContact": "No contact details available.",
+    "seeAllReviews": "See all reviews",
+    "verified": "Verified"
+  },
+  "saved": {
+    "title": "Saved",
+    "emptyTitle": "Nothing saved yet",
+    "emptyBody": "Tap the heart on any provider to keep them here for quick access."
+  },
+  "settings": {
+    "title": "Settings",
+    "appearance": "Appearance",
+    "themeSystem": "System",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "language": "Language",
+    "english": "English",
+    "turkish": "Türkçe",
+    "about": "About",
+    "version": "Version",
+    "aboutBody": "Medora is a concept healthcare discovery app built for a mobile engineering case study."
+  },
+  "onboarding": {
+    "slide1Title": "Discover care worldwide",
+    "slide1Body": "Search doctors, clinics and hospitals across the world — and compare them in one place.",
+    "slide2Title": "Connect with professionals",
+    "slide2Body": "Follow trusted doctors and clinics, explore specialties and reach them in a single tap.",
+    "slide3Title": "Care you can trust",
+    "slide3Body": "Verified profiles and real reviews help you choose the right care for you and your family.",
+    "chooseLanguage": "Choose your language"
+  },
+  "offline": {
+    "banner": "You’re offline — showing the latest data"
+  }
+}
